@@ -56,16 +56,16 @@ This project includes multiple activities:
 
 ## Screenshots
 
-![MainActivity](./screenshots/mainactivity.png)
+![MainActivity](./screenshots/mainActivity.png)
 *MainActivity showing the paystub calculation form.*
 
-![EmployeesActivity](./screenshots/employeesactivity.png)
+![EmployeesActivity](./screenshots/employeesActivity.png)
 *EmployeesActivity where users can add or update employee details.*
 
-![HistoryActivity](./screenshots/historyactivity.png)
+![HistoryActivity](./screenshots/historyActivity.png)
 *HistoryActivity displaying past paystubs.*
 
-![AboutActivity](./screenshots/aboutactivity.png)
+![AboutActivity](./screenshots/aboutActivity.png)
 *AboutActivity with information about the app.*
 
 
