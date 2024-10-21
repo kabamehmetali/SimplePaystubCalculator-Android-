@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">PaystubCalculator</string>
+    <string name="version">Version 1.0</string>
+    <string name="studentName">Mehmet Ali KABA</string>
+    <string name="studentId">Student Number: 101453763</string>
+    <string name="hoursTextView">Hours: </string>
+    <string name="hoursInput">0</string>
+    <string name="overtimeHoursView">Overtime Hours: </string>
+    <string name="overtimeHoursInput">0</string>
+    <string name="hourlyRateView">Hourly Rate : </string>
+    <string name="hourlyRateInput">17.2</string>
+    <string name="overtimeHourlyRateView">Overtime Hourly Rate :</string>
+    <string name="overtimeHourlyRateInput">19.2</string>
+    <string name="taxRateView">Tax Rate %:</string>
+    <string name="taxRateInput">18</string>
+    <string name="calculateBtn">Calculate</string>
+    <string name="addDataBtn">Add Data</string>
+    <string name="resetBtn">Reset</string>
+    <string name="defaultMessageTextView">No calculation made.</string>
+    <string name="employeesSpinner">No employee Selected</string>
+    <string name="select_employee_prompt">Select Employee</string>
+
+    <string name="employeeIdTextView">Employee ID: -</string>
+    <string name="selectEmployee">Select Employee</string>
+    <string name="nameLabel">Name</string>
+    <string name="lastNameLabel">Last Name</string>
+    <string name="roleLabel">Role</string>
+    <string name="salaryTextView">Total Salary Earned: -</string>
+    <string name="previousPaystubsLabel">Previous Paystubs</string>
+    <string name="NoPayAvaliable">No paystub available</string>
+    <string name="applyBtn">Apply</string>
+    <string name="lastShow">Show last: </string>
+    <string name="defaultTotalAmount">Total Amount: $0.00</string>
+    <string name="lastShowNum">5</string>
+    <string name="btnAdd">Add</string>
+    <string name="previousPay">Previous Paystubs</string>
+    <string name="NoPrevious">No previous paystubs yet</string>
+    <string name="deleteBtn">Delete</string>
+    <string name="updateBtn">Update</string>
+    <string name="totalSalaryEarned">Total Salary Earned: -</string>
+    <string name="enterEmployeeRole">Enter employee role</string>
+    <string name="role">Role</string>
+    <string name="enterLastName">Enter employee last name</string>
+    <string name="lastName">Last Name</string>
+    <string name="enterEmployeeName">Enter employee name</string>
+    <string name="name">Name</string>
+    <string name="employeeId">Employee ID: -</string>
+
+
+
+
+
+</resources>
