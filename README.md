@@ -37,7 +37,7 @@ This project includes multiple activities:
 - Ability to delete individual paystubs.
 
 ### AboutActivity
-- Simple activity displaying basic information about the app.
+- About activity displaying basic information about the app.
 
 ## Installation
 1. Clone the repository:
@@ -54,6 +54,11 @@ This project includes multiple activities:
 - **RecyclerView**: For listing paystubs and employee data.
 - **Spinner**: For selecting employees in the UI.
 
+
+## License
+This project is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
 ## Screenshots
 
 ![MainActivity](./screenshots/mainActivity.png)
@@ -67,14 +72,3 @@ This project includes multiple activities:
 
 ![AboutActivity](./screenshots/aboutActivity.png)
 *AboutActivity with information about the app.*
-
-
-
-## Future Improvements
-- Add the ability to export paystub data as a PDF.
-- Implement cloud-based storage for employee and paystub data.
-- Introduce more detailed pay calculations, including bonuses or deductions.
-
-## License
-This project is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for details.
-
